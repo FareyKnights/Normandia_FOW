@@ -1,0 +1,46 @@
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\Content\Fonts\mainfont.xnb
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\Normandia FOW.exe
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\Normandia FOW.deps.json
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\Normandia FOW.runtimeconfig.json
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\Normandia FOW.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\Normandia FOW.pdb
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\SharpDX.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\obj\Debug\net6.0-windows\Normandia FOW.csproj.AssemblyReference.cache
+E:\Normandia FOW\Normandia FOW\Normandia FOW\obj\Debug\net6.0-windows\Normandia FOW.GeneratedMSBuildEditorConfig.editorconfig
+E:\Normandia FOW\Normandia FOW\Normandia FOW\obj\Debug\net6.0-windows\Normandia FOW.AssemblyInfoInputs.cache
+E:\Normandia FOW\Normandia FOW\Normandia FOW\obj\Debug\net6.0-windows\Normandia FOW.AssemblyInfo.cs
+E:\Normandia FOW\Normandia FOW\Normandia FOW\obj\Debug\net6.0-windows\Normandia FOW.csproj.CoreCompileInputs.cache
+E:\Normandia FOW\Normandia FOW\Normandia FOW\obj\Debug\net6.0-windows\Normandia FOW.csproj.CopyComplete
+E:\Normandia FOW\Normandia FOW\Normandia FOW\obj\Debug\net6.0-windows\Normandia FOW.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\obj\Debug\net6.0-windows\refint\Normandia FOW.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\obj\Debug\net6.0-windows\Normandia FOW.pdb
+E:\Normandia FOW\Normandia FOW\Normandia FOW\obj\Debug\net6.0-windows\Normandia FOW.genruntimeconfig.cache
+E:\Normandia FOW\Normandia FOW\Normandia FOW\obj\Debug\net6.0-windows\ref\Normandia FOW.dll
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\Content\Textures\plains.xnb
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\Content\Textures\Forest.xnb
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\Content\Textures\Curseur1.xnb
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\Content\Textures\MaleWarr.xnb
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\Content\Textures\NewGame.xnb
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\Content\Textures\Mountain.xnb
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\Content\Textures\Road.xnb
+E:\Normandia FOW\Normandia FOW\Normandia FOW\bin\Debug\net6.0-windows\Content\Textures\Town.xnb

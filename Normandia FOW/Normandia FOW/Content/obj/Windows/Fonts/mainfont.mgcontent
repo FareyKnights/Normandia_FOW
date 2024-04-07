@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/Normandia FOW/Normandia FOW/Normandia FOW/Content/Fonts/mainfont.spritefont</SourceFile>
+  <SourceTime>2024-03-28T11:30:32.0979256+01:00</SourceTime>
+  <DestFile>E:/Normandia FOW/Normandia FOW/Normandia FOW/Content/bin/Windows/Fonts/mainfont.xnb</DestFile>
+  <DestTime>2024-03-28T22:09:59.7340923+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

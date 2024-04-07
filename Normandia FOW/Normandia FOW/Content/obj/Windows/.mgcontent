@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Normandia FOW/Normandia FOW/Normandia FOW/Content/Fonts/mainfont.spritefont</File>
+    <File>E:/Normandia FOW/Normandia FOW/Normandia FOW/Content/Textures/Curseur1.png</File>
+    <File>E:/Normandia FOW/Normandia FOW/Normandia FOW/Content/Textures/Forest.png</File>
+    <File>E:/Normandia FOW/Normandia FOW/Normandia FOW/Content/Textures/MaleWarr.png</File>
+    <File>E:/Normandia FOW/Normandia FOW/Normandia FOW/Content/Textures/Mountain.png</File>
+    <File>E:/Normandia FOW/Normandia FOW/Normandia FOW/Content/Textures/NewGame.png</File>
+    <File>E:/Normandia FOW/Normandia FOW/Normandia FOW/Content/Textures/plains.png</File>
+    <File>E:/Normandia FOW/Normandia FOW/Normandia FOW/Content/Textures/Road.png</File>
+    <File>E:/Normandia FOW/Normandia FOW/Normandia FOW/Content/Textures/Town.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
